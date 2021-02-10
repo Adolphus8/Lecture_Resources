@@ -1,5 +1,9 @@
 # Lecture Resources
-Welcome! This repository serves as an archive to all notes and relevant resources to talks/lectures given in the past. This is free to anyone who wishes to look at what has been presented previously. 
+Welcome! 
+
+This repository serves as an archive to all notes and relevant resources to talks/lectures given in the past. This is free to anyone who wishes to look at what has been presented previously. 
+
+Enjoy! :)
 
 ## COSSANTHON 2020:
 
