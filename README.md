@@ -15,7 +15,7 @@ In this two-part e-lecture series, I gave a basic introduction to the concept of
 
 In Part I, I gave a brief background behind the concept of model updating and the difference between deterministic and probabilistic model updating. From there, we establish that Bayesian Model Updating falls under the category of probabilistic model updating and its advantage lies in its ability to update one's knowledge from his/her apriori knowledge through making observations.
 
-In Part II, I introduced 3 of the popular sampling techniques used to address Bayesian Model Updating problem: Markov Chain Monte Carlo (MCMC), Transitional MArkov Chain Monte Carlo (TMCMC), and Sequential Monte Carlo (SMC). Details to each sampling algorithm will be introduced and described through illustrative flow-charts.
+In Part II, I introduced 3 of the popular sampling techniques used to address Bayesian Model Updating problem: Markov Chain Monte Carlo (MCMC), Transitional Markov Chain Monte Carlo (TMCMC), and Sequential Monte Carlo (SMC). Details to each sampling algorithm will be introduced and described through illustrative flow-charts.
 
 This two-part e-lecture series is also made available on YouTube:
 
