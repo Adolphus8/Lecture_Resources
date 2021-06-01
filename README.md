@@ -5,7 +5,7 @@ This repository serves as an archive to all notes and relevant resources to talk
 
 Enjoy! :)
 
-## COSSANTHON 2020:
+## COSSAN Training Course 2020:
 
 ### Date: 
 28-Apr-2020 (Tue)
