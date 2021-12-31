@@ -51,6 +51,10 @@ In this talk, I gave a basic introduction to Bayesian Model Updating, followed b
   
  Date: 8-Dec-2021 (Wed) 
   
-In this talk, I gave a basic introduction to the general concept of Model updating from which we proceed to discuss the topic on Bayesian Model Updating. This is then followed by an introduction to the sampling techniques employed (i.e. Markov Chain Monte Carlo, Transitional Markov Chain Monte Carlo, and Sequential Monte Carlo samplers). For each of the sampling techniques, we present simple engineering case-studies to demonstrate its implementation. Finally, we end off the discussion with a summary of the key advantages and disadvantages between the different sampling techniques. Notes and MATLAB codes to these numerical examples presented in this talk are also available here.
+In this lecture is divided into 2 segments. The first segment involves going through the theory of Model updating from which we proceed to discuss the topic on Bayesian Model Updating. This is then followed by an introduction to the sampling techniques employed (i.e. Markov Chain Monte Carlo, Transitional Markov Chain Monte Carlo, and Sequential Monte Carlo samplers). For each of the sampling techniques, we present simple engineering case-studies to demonstrate its implementation. Finally, we conclude the first segment discussion with a summary of the key advantages and disadvantages between the different sampling techniques. 
+  
+In the second segment, we demonstrate the implementation of OpenCOSSAN to solve a simple Bayesian Model Updating problem involving a Linear Spring-Mass system using the Transitional Markov Chain Monte Carlo sampler. 
+  
+The lecture notes, worksheet, MATLAB codes to the numerical examples presented in this talk, as well as the OpenCOSSAN MATLAB codes to the practical demonstration are also available here.
 
 </details>
