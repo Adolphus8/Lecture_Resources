@@ -5,11 +5,16 @@ This repository serves as an archive to all notes and relevant resources to talk
 
 Enjoy! :)
 
-## COSSAN Training Course 2020:
 
-Date: 28-Apr-2020 (Tue)
+## COSSAN Training Course: 
+<details>
+
+<summary> Click for details! </summary>
 
 #### Description:
+  
+Date: 28-Apr-2020 (Tue)  
+  
 In this two-part e-lecture series, I gave a basic introduction to the concept of inverse problems, the motivation behind Bayesian Model Updating, and the tools to address Bayesian Model Updating problems.
 
 In Part I, I gave a brief background behind the concept of model updating and the difference between deterministic and probabilistic model updating. From there, we establish that Bayesian Model Updating falls under the category of probabilistic model updating and its advantage lies in its ability to update one's knowledge from his/her apriori knowledge through making observations.
@@ -21,18 +26,31 @@ This two-part e-lecture series is also made available on YouTube:
 Part I: https://youtu.be/A-cjvg741is
 
 Part II: https://youtu.be/87b2-Fb4uas
-
+  
+</details>
+  
 ## URBASIS-EU WP1 Meeting:
+<details>
 
-Date: 12-Feb-2021 (Fri)
+<summary> Click for details! </summary>
 
-### Description:
+#### Description:
+  
+Date: 12-Feb-2021 (Fri)  
+  
 In this talk, I gave a basic introduction to Bayesian Model Updating, followed by an introduction to the sampling techniques employed (i.e. Markov Chain Monte Carlo, Transitional Markov Chain Monte Carlo, and Sequential Monte Carlo samplers). For each of the sampling techniques, we present simple engineering case-studies to demonstrate its implementation. Finally, we end off the discussion with a summary of the key advantages and disadvantages between the different sampling techniques. Notes and MATLAB codes to these numerical examples presented in this talk are also available here.
+  
+</details>
 
 ## Uncertainty Quantification Training Seminar:
+<details>
 
-Date: 8-Dec-2021 (Wed)
+<summary> Click for details! </summary>
 
-### Description:
+#### Description:
+  
+ Date: 8-Dec-2021 (Wed) 
+  
 In this talk, I gave a basic introduction to the general concept of Model updating from which we proceed to discuss the topic on Bayesian Model Updating. This is then followed by an introduction to the sampling techniques employed (i.e. Markov Chain Monte Carlo, Transitional Markov Chain Monte Carlo, and Sequential Monte Carlo samplers). For each of the sampling techniques, we present simple engineering case-studies to demonstrate its implementation. Finally, we end off the discussion with a summary of the key advantages and disadvantages between the different sampling techniques. Notes and MATLAB codes to these numerical examples presented in this talk are also available here.
 
+</details>
