@@ -6,7 +6,7 @@ This repository serves as an archive to all notes and relevant resources to talk
 Enjoy! :)
 
 
-## COSSAN Training Course 2020: 
+## COSSAN Training Course: 
 <details>
 
 <summary> Click for details! </summary>
