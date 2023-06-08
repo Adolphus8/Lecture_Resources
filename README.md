@@ -59,7 +59,7 @@ The lecture notes, worksheet, MATLAB codes to the numerical examples presented i
 
 </details>
 
-## Semi-Plenary Talk at MPSVA Conference 2022:
+## MPSVA 2022 Presentation:
 <details>
 
 <summary> Click for details! </summary>
