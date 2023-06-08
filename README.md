@@ -58,3 +58,19 @@ In the second segment, we demonstrate the implementation of OpenCOSSAN to solve 
 The lecture notes, worksheet, MATLAB codes to the numerical examples presented in this talk, as well as the OpenCOSSAN MATLAB codes to the practical demonstration are also available here.
 
 </details>
+
+## Semi-Plenary Talk at MPSVA Conference 2022:
+<details>
+
+<summary> Click for details! </summary>
+
+#### Description:
+  
+ Date: 12-Jul-2021 (Tues) 
+  
+The Semi-plenary talk was presented at the 10th International Conference on Modern Practice in Stress and Vibration Analysis (MPSVA 2022). 
+In the talk, I gave a brief overview on the concept of Bayesian Model Updating, the Transitional Ensemble Markov Chain Monte Carlo sampler, and the Approximate Bayesian computing framework in performing Uncertainty quantification in structural dynamical problems.
+  
+As an illustration to the Uncertainty quantification framework involving the above concepts, an application problem was presented based on the recent NASA-Langley Uncertainty Quantification Challenge 2019 to which a brief comparison is made between the choice of the distribution model for the random model variables, the type of data used for the Black-box model calibration, and the choice of distance metric used for the Approximate Bayesian computation.
+
+</details>
