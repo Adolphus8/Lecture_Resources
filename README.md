@@ -94,6 +94,7 @@ To address the above challenges, the presentation introduces the following UQ to
 1) Bayesian model updating and Interval arithmetic to address Challenge 1;
 2) Frechet bounds and Fuzzy logic to address Challenge 2; and
 3) Bayesian model selection and Probability boxes to address Challenge 3.
+
 An overview to the relevant tools to the above approaches will also be provided.
 
 In summary, the twinning of PSA approaches with UQ techniques seeks to provide a more generalised and realistic framework which quantifies the uncertainty over the risk assessment given the information available as well as provide a systematic approach towards propagating the uncertainty in the calculation of the final probability of the severe accident being studied.
