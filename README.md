@@ -66,11 +66,36 @@ The lecture notes, worksheet, MATLAB codes to the numerical examples presented i
 
 #### Description:
   
- Date: 12-Jul-2021 (Tues) 
+ Date: 12-Jul-2022 (Tues) 
   
 The Semi-plenary talk was presented at the 10th International Conference on Modern Practice in Stress and Vibration Analysis (MPSVA 2022). 
 In the talk, I gave a brief overview on the concept of Bayesian Model Updating, the Transitional Ensemble Markov Chain Monte Carlo sampler, and the Approximate Bayesian computing framework in performing Uncertainty quantification in structural dynamical problems.
   
 As an illustration to the Uncertainty quantification framework involving the above concepts, an application problem was presented based on the recent NASA-Langley Uncertainty Quantification Challenge 2019 to which a brief comparison is made between the choice of the distribution model for the random model variables, the type of data used for the Black-box model calibration, and the choice of distance metric used for the Approximate Bayesian computation.
+
+</details>
+
+## 1st Joint TINT – Nuclear Malaysia ASEAN NPSR Technical Meeting on PSA & HRA on Nuclear Research Reactor in ASEAN Region Presentation:
+<details>
+
+<summary> Click for details! </summary>
+
+#### Description:
+  
+ Date: 18-Jul-2023 (Tues) 
+  
+In this talk, I discussed how Uncertainty Quantification (UQ) methods and Probabilistic Safety Assessment (PSA) approaches can go hand-in-hand towards providing a robust framework towards risk assessment for Nuclear safety.
+We begin with a brief summary of what we currently know about PSA and the 3 key challenges it faces: 
+1) Limited data;
+2) Independence assumption between events; and
+3) Uncertainty over the distribution models.
+
+To address the above challenges, the presentation introduces the following UQ tools which can be used in tandem with PSA approaches:
+1) Bayesian model updating and Interval arithmetic to address Challenge 1;
+2) Frechet bounds and Fuzzy logic to address Challenge 2; and
+3) Bayesian model selection and Probability boxes to address Challenge 3.
+An overview to the relevant tools to the above approaches will also be provided.
+
+In summary, the twinning of PSA approaches with UQ techniques seeks to provide a more generalised and realistic framework which quantifies the uncertainty over the risk assessment given the information available as well as provide a systematic approach towards propagating the uncertainty in the calculation of the final probability of the severe accident being studied.
 
 </details>
