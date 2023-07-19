@@ -59,7 +59,7 @@ The lecture notes, worksheet, MATLAB codes to the numerical examples presented i
 
 </details>
 
-## MPSVA 2022 Presentation:
+## MPSVA 2022 Conference:
 <details>
 
 <summary> Click for details! </summary>
@@ -75,7 +75,7 @@ As an illustration to the Uncertainty quantification framework involving the abo
 
 </details>
 
-## 1st Joint TINT – Nuclear Malaysia ASEAN NPSR Technical Meeting on PSA & HRA on Nuclear Research Reactor in ASEAN Region Presentation:
+## 1st Joint TINT – Nuclear Malaysia ASEAN NPSR Technical Meeting on PSA & HRA on Nuclear Research Reactor in ASEAN Region:
 <details>
 
 <summary> Click for details! </summary>
