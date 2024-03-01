@@ -5,6 +5,21 @@ This repository serves as an archive to all notes and relevant resources to talk
 
 Enjoy! :)
 
+## Pint of Science 2019: 
+<details>
+
+<summary> Click for details! </summary>
+
+#### Description:
+  
+Date: 22-May-2019 (Wed)  
+  
+Pint of Science 2019 was the annual science festival that takes place every May and brings researchers to your local bar to share their research. One of such session was held at the Federick's bar in Liverpool where the theme was: "Not Yet Decided: The Value of Procrastination".
+
+My presentation was one of the series of short 5-minute presentations as part of the "Shot of Science" segment of the event where I presented on Mozart's procrastination in composing the Don Giovanni’s overture. 
+
+</details>
+
 
 ## COSSAN Training Course: 
 <details>
