@@ -115,3 +115,19 @@ An overview to the relevant tools to the above approaches will also be provided.
 In summary, the twinning of PSA approaches with UQ techniques seeks to provide a more generalised and realistic framework which quantifies the uncertainty over the risk assessment given the information available as well as provide a systematic approach towards propagating the uncertainty in the calculation of the final probability of the severe accident being studied.
 
 </details>
+
+## SNRSI Nuclear Safety Analysis Team Sharing Session:
+<details>
+
+<summary> Click for details! </summary>
+
+#### Description:
+  
+ Date: 5-Apr-2024 (Fri) 
+  
+In this talk, I provided an introduction to the concept of Bayesian Model Updating and Approximate Bayesian Computation (ABC) towards model calibration and validation. From which, we proceed to introduce some examples of the distance metrics used for ABC in the literature, namely: 
+1) Euclidean distance; 2) Bhattacharyya distance; 3) Bray-Curtis distance; and 4) 1-Wasserstein distance, along with their respective mathematical formalisms.
+
+Following this, we proceeded to present a case study based on the 2008 SANDIA Thermal Challenge we we presented the comparison in the model validation performance of the temperature model calibrated via ABC using the different distance functions. A discussion is provided on the findings which concluded that the calibrated temperature model using the Euclidean distance-based ABC yielded the best model validation performance.
+
+</details>
