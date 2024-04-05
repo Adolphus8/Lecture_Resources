@@ -126,7 +126,11 @@ In summary, the twinning of PSA approaches with UQ techniques seeks to provide a
  Date: 5-Apr-2024 (Fri) 
   
 In this talk, I provided an introduction to the concept of Bayesian Model Updating and Approximate Bayesian Computation (ABC) towards model calibration and validation. From which, we proceed to introduce some examples of the distance metrics used for ABC in the literature, namely: 
-1) Euclidean distance; 2) Bhattacharyya distance; 3) Bray-Curtis distance; and 4) 1-Wasserstein distance, along with their respective mathematical formalisms.
+1) Euclidean distance;
+2) Bhattacharyya distance;
+3) Bray-Curtis distance; and
+4) 1-Wasserstein distance,
+along with their respective mathematical formalisms.
 
 Following this, we proceeded to present a case study based on the 2008 SANDIA Thermal Challenge we we presented the comparison in the model validation performance of the temperature model calibrated via ABC using the different distance functions. A discussion is provided on the findings which concluded that the calibrated temperature model using the Euclidean distance-based ABC yielded the best model validation performance.
 
